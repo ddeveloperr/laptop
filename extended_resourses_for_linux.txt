@@ -1,0 +1,6 @@
+
+More details for linux laptop:
+
+https://robots.thoughtbot.com/laptop-setup-for-an-awesome-development-environment
+
+https://github.com/drKraken/setup.sh
